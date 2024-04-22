@@ -1,6 +1,6 @@
 import DBContext from "../db/DBContext.js";
 import Person from "./Person.js";
-
+//LLAMANDO A DB
 const dbContext = new DBContext();
 
 
